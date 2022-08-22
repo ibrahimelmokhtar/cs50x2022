@@ -1,0 +1,49 @@
+sort1 uses: TODO
+>>> BUBBLE SORT
+How do you know?: TODO
+
+>>> random5000.txt: 	0m 0.109s
+>>> random10000.txt: 	0m 0.355s
+>>> random50000.txt: 	0m 8.883s
+
+>>> reversed5000.txt: 	0m 0.092s
+>>> reversed10000.txt: 	0m 2.211s
+>>> reversed50000.txt: 	0m 13.898s
+
+>>> sorted5000.txt: 	0m 0.040s
+>>> sorted10000.txt: 	0m 0.051s
+>>> sorted50000.txt:  	0m 0.365s
+
+*****************************************************************************************
+sort2 uses: TODO
+>>> MERGE SORT
+How do you know?: TODO
+
+>>> random5000.txt: 	0m 0.036s
+>>> random10000.txt: 	0m 0.074s
+>>> random50000.txt: 	0m 0.376s
+
+>>> reversed5000.txt: 	0m 0.032s
+>>> reversed10000.txt: 	0m 0.463s
+>>> reversed50000.txt: 	0m 4.569s
+
+>>> sorted5000.txt: 	0m 0.042s
+>>> sorted10000.txt: 	0m 0.070s
+>>> sorted50000.txt: 	0m 0.376s
+
+*****************************************************************************************
+sort3 uses: TODO
+>>> SELECTION SORT
+How do you know?: TODO
+
+>>> random5000.txt: 	0m 0.071s
+>>> random10000.txt: 	0m 0.184s
+>>> random50000.txt: 	0m 3.649s
+
+>>> reversed5000.txt: 	0m 0.068s
+>>> reversed10000.txt: 	0m 1.466s
+>>> reversed50000.txt: 	0m 29.541s
+
+>>> sorted5000.txt: 	0m 0.069s
+>>> sorted10000.txt: 	0m 0.195s
+>>> sorted50000.txt: 	0m 3.630s
