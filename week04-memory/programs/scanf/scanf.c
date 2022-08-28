@@ -43,8 +43,9 @@ float get_float(char* message) {
 char* get_string(char* message) {
     printf("%s", message);
 
-    char* input = malloc(4 * sizeof(char));
-    scanf("%s", input);
+    char* input = malloc(100);
+    // scanf("%s", input);  // This will take only ONE word ... until it finds a SPACE ' ' character.
+    scanf("\n%[^\n]%*c", input);
 
     return input;
 }
