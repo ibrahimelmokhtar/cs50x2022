@@ -26,5 +26,5 @@ Implementation of CS50 problem sets during **2022** class.
 
 - [Week 04: Memory](./week04-memory/)
 
-    | Problem Sets | [Filter Less](week04-memory/problem-set-04/filter-less/filter.c) | [Filter More](week04-memory/problem-set-04/filter-more/filter.c) | [Recover](week04-memory/problem-set-04/recover/recover.c) |
+    | Problem Sets | [Filter Less](week04-memory/problem-set-04/filter-less/helpers.c) | [Filter More](week04-memory/problem-set-04/filter-more/helpers.c) | [Recover](week04-memory/problem-set-04/recover/recover.c) |
     | - | - | - | - |
