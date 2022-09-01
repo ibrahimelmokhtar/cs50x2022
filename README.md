@@ -28,3 +28,8 @@ Implementation of CS50 problem sets during **2022** class.
 
     | Problem Sets | [Filter Less](week04-memory/problem-set-04/filter-less/helpers.c) | [Filter More](week04-memory/problem-set-04/filter-more/helpers.c) | [Recover](week04-memory/problem-set-04/recover/recover.c) |
     | - | - | - | - |
+
+- [Week 05: Data Structure](./week05-data-structures/)
+
+    | Problem Sets | [Speller](week05-data-structures/problem-set-05/speller/) |
+    | - | - |
